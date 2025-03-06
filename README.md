@@ -3,7 +3,7 @@
 
 Bem-vindo(a)! Este repositório apresenta uma **Análise Exploratória de Dados (EDA)** avançada no Superstore Sales Dataset, investigando padrões temporais, segmentações e drivers de vendas com automação e visualizações interativas.
 
-🔗 [Visualizar o Notebook](https://github.com/benzerinsio/SalesPatterns-EDA/blob/main/EDA-SalesPatterns.ipynb)
+🔗 [Visualizar o Notebook](https://github.com/benzerinsio/SalesPatterns-EDA/blob/main/EDA-SalesPattern.ipynb)
 
 ## 🎯 Objetivo da Análise
 
